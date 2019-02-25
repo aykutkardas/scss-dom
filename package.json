@@ -1,0 +1,25 @@
+{
+  "name": "scss-dom",
+  "version": "0.0.0",
+  "description": "Use of SCSS features in HTML elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkardas/scss-dom.git"
+  },
+  "keywords": [
+    "scss",
+    "dom",
+    "sass",
+    "css"
+  ],
+  "author": "Aykut Kardaş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aykutkardas/scss-dom/issues"
+  },
+  "homepage": "https://github.com/aykutkardas/scss-dom#readme"
+}
